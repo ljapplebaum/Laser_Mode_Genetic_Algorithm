@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\ljapp\dropbox\documents\visual studio\projects\ece_495_final_genetic_algorithm\ece_495_final_genetic_algorithm\source.cpp(286): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ljapp\dropbox\documents\visual studio\projects\ece_495_final_genetic_algorithm\ece_495_final_genetic_algorithm\source.cpp(287): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ljapp\dropbox\documents\visual studio\projects\ece_495_final_genetic_algorithm\ece_495_final_genetic_algorithm\source.cpp(331): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ljapp\dropbox\documents\visual studio\projects\ece_495_final_genetic_algorithm\ece_495_final_genetic_algorithm\source.cpp(332): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ljapp\dropbox\documents\visual studio\projects\ece_495_final_genetic_algorithm\ece_495_final_genetic_algorithm\source.cpp(32): warning C4101: 'tempFloat': unreferenced local variable
+  ECE_495_Final_Genetic_Algorithm.vcxproj -> C:\Users\ljapp\Dropbox\Documents\Visual Studio\Projects\ECE_495_Final_Genetic_Algorithm\Debug\ECE_495_Final_Genetic_Algorithm.exe
+  ECE_495_Final_Genetic_Algorithm.vcxproj -> C:\Users\ljapp\Dropbox\Documents\Visual Studio\Projects\ECE_495_Final_Genetic_Algorithm\Debug\ECE_495_Final_Genetic_Algorithm.pdb (Full PDB)
